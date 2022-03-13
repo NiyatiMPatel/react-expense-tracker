@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reat-expense-tracker/static/css/main.3bb216b7.css",
+    "main.js": "/reat-expense-tracker/static/js/main.1b97da98.js",
+    "index.html": "/reat-expense-tracker/index.html",
+    "main.3bb216b7.css.map": "/reat-expense-tracker/static/css/main.3bb216b7.css.map",
+    "main.1b97da98.js.map": "/reat-expense-tracker/static/js/main.1b97da98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb216b7.css",
+    "static/js/main.1b97da98.js"
+  ]
+}
